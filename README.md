@@ -1,0 +1,1 @@
+# github-1512_sanity_rules-repository-template
